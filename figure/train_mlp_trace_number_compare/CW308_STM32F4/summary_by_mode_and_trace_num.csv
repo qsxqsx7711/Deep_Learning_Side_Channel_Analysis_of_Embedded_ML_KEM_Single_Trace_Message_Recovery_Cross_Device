@@ -1,0 +1,4 @@
+mode,TRACE_NUM,best_val_accuracy,best_val_f1
+PoI,1000,0.9948,0.9948
+PoI,1500,0.9996,0.9996
+PoI,2000,1.0000,1.0000

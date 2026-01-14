@@ -1,0 +1,4 @@
+cutoff_MHz,best_val_accuracy,best_val_f1
+1,0.8578,0.8573
+2,0.9887,0.9886
+3,0.9931,0.9931
